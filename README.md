@@ -13,4 +13,4 @@
 9. Use percentages (%) when defining containers `width`.
 10. Add flexbox properties to recreate the layout from the image.
 
-![img]("")
+![img](https://github.com/AndreaDvorakova/CodingBootcamp_Footer_with_flexbox/blob/main/exercise_footer_with_flexbox.png)
